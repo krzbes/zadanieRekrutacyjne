@@ -13,6 +13,7 @@ Uruchomienie aplikacji appB:
 ```bash
 cd appB
 ./vendor/bin/sail up -d
+./vendor/bin/sail php artisan migrate
 ./vendor/bin/sail share 
 ```
 
