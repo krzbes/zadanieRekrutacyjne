@@ -1,4 +1,7 @@
-# Zadanie rekrutacyjne
+# Dwie aplikacje - Zadanie rekrutacyjne
+## Cel
+Uruchomić dwie aplikacje i umożliwić ich wzajemną komunikację.
+Pierwszy system ma otrzymać imię i przesłać je do drugiego systemu, który ma je zapisać w bazie danych.
 
 ## Instalacja
 Uruchomienie aplikacji appA:
